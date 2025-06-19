@@ -4,8 +4,8 @@ An interactive web-based visualizer for pathfinding algorithms and maze generati
 
 ## 🚀 Live Demo
 
-👉 [Check App - Deployed Link](#)  
-_(Replace `#` with your actual deployment link)_
+👉 [Check App - Deployed Link](https://graph-algorithms-visualizer.vercel.app/)  
+
 
 ## 📌 Features
 
